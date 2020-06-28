@@ -1,0 +1,2 @@
+model_checkpoint_path: "weight.50-2.35.H5"
+all_model_checkpoint_paths: "weight.50-2.35.H5"
